@@ -1,6 +1,6 @@
 {
     "id": "240E47F0",
-    "path": "C:/Users/mtb3f/OneDrive - University of Glasgow/Stats MSc (PGT)/Data Analysis Skills 2024/Lab Materials/Still to be updated Week 3 - Intro to Quarto (Copied from DA then tweaked)/Week_3/index.qmd",
+    "path": "C:/Users/mtb3f/OneDrive - University of Glasgow/Stats MSc (PGT)/Data Analysis Skills 2024/Lab Materials/Week 3 - Intro to Quarto (Copied from DA then tweaked)/Lab3/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
     "hash": "1118062625",
@@ -10,23 +10,23 @@
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "rmdVisualMode": "true",
+        "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "chunk_output_type": "console",
         "source_window_id": "",
         "Source": "Source",
         "docOutlineVisible": "1",
-        "cursorPosition": "35,0",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "957:624",
+        "cursorPosition": "37,60",
+        "scrollLine": "26",
+        "rmdVisualModeLocation": "312:300",
         "rmdVisualCollapsedChunks": ""
     },
     "folds": "",
-    "lastKnownWriteTime": 1706784320,
+    "lastKnownWriteTime": 1706806713,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1706784320068,
+    "last_content_update": 1706806713454,
     "read_only": false,
     "read_only_alternatives": []
 }

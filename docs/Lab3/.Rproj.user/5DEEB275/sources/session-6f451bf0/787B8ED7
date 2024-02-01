@@ -1,9 +1,9 @@
 {
     "id": "787B8ED7",
-    "path": "C:/Users/mtb3f/OneDrive - University of Glasgow/Stats MSc (PGT)/Data Analysis Skills 2024/Lab Materials/Still to be updated Week 3 - Intro to Quarto (Copied from DA then tweaked)/Week_3/about.qmd",
+    "path": "C:/Users/mtb3f/OneDrive - University of Glasgow/Stats MSc (PGT)/Data Analysis Skills 2024/Lab Materials/Week 3 - Intro to Quarto (Copied from DA then tweaked)/Lab3/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "3403965486",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1706784367182.0,
@@ -17,7 +17,7 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "111:0",
-        "cursorPosition": "9,123",
+        "cursorPosition": "4,15",
         "scrollLine": "1"
     },
     "folds": "",
