@@ -3,7 +3,7 @@
     "path": "C:/Users/mtb3f/OneDrive - University of Glasgow/Stats MSc (PGT)/Github-DAS/Labs/Labs/Parent/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1437842958",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1706790272262.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,14",
+        "cursorPosition": "18,46",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1706790313,
+    "lastKnownWriteTime": 1706790606,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1706790313040,
+    "last_content_update": 1706790606885,
     "read_only": false,
     "read_only_alternatives": []
 }
