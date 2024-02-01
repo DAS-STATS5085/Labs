@@ -1,0 +1,18 @@
+--- 
+title: "Data Analysis Skills (STATS5085)"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, eval=TRUE, comment=NA)
+library(webexercises)
+```
+
+# Links to DAS Labs{-}
+
+
+* [DAS Lab 3](https://s2s-statistical-mm-c-1.github.io/Labs/S2SLab3/docs)
+
