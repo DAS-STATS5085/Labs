@@ -179,6 +179,7 @@ evals.scores <- evals |>
   select(score, bty_avg)
 ```
 
+````{verbatim}
 ```{r}
 #| echo: false
 library(tidyverse)
@@ -186,6 +187,7 @@ library(moderndive)
 evals.scores <- evals |>
   select(score, bty_avg)
 ```
+````
 
 Setting `echo: false` will tell the R to evaluate the code while hiding the R chunk from the main document. In this example, we will store the subsetted data set as the object `evals.scores` so that it can be used later . If you want to embed the code within the Quarto document then you would simply set `echo: true`.
 
